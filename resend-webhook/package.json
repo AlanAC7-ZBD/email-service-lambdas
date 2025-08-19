@@ -1,0 +1,7 @@
+{
+    "name": "resend-webhook",
+    "version": "1.0.0",
+    "dependencies": {
+      "svix": "^1.15.0"
+    }
+  }
